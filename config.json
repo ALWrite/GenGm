@@ -1,0 +1,14 @@
+{
+  "amount": 5,
+  "headless": false,
+  "api_key": "22f865",
+  "discohook": "https://dvWorFmeVqFR_3lcfTJ-0fMhh4elKxIKEJsjLErGBX209xEJtnQ9Q-f8V7nqk",
+  "discolog": "https://discoRxMLVPrhHRTC2l5rH7eCi59CSNRGWocNWwMRWsT65Yuel4msq",
+  "maxRetries": 5,
+  "retryDelay": 5000,
+  "recoverMail": true,
+  "recover": "",
+  "indonesia": true,
+  "lengthPw": 8,
+  "perTask": true
+}
