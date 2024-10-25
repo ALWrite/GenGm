@@ -1,4 +1,3 @@
-# Google Account gen
 
 Welcome to the **Google Account Gen** project! 🎉
 
@@ -30,3 +29,39 @@ Follow the steps below to get started with this project:
    ```bash
    git clone https://github.com/username/repo.git
    cd repo
+
+2. **Install package**:
+   ```bash
+   npm install or yarn install
+
+3. **Setup config.json first**
+   ```json
+   {
+   "amount": 5,
+   "headless": false,
+   "api_key": "22f865",
+   "discohook": "https://dvWorFmeVqFR_3lcfTJ-0fMhh4elKxIKEJsjLErGBX209xEJtnQ9Q-f8V7nqk",
+   "discolog": "https://discoRxMLVPrhHRTC2l5rH7eCi59CSNRGWocNWwMRWsT65Yuel4msq",
+   "maxRetries": 5,
+   "retryDelay": 5000,
+   "recoverMail": true,
+   "recover": "",
+   "indonesia": true,
+   "lengthPw": 8,
+   "perTask": true
+   }
+4. **Run the script**
+   ```bash
+   node .
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to contribute, please fork this repository and submit a pull request.
+
+## 📫 Contact
+If you have any questions, feedback, or need assistance, feel free to reach out:
+
+Modified by <a href="https://github.com/ALWrite">ALWrite
+
+## Thanks to VOROMADE
+Made by <a href="https://github.com/voromade">voromade</br>
