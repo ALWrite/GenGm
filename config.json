@@ -2,6 +2,7 @@
   "amount": 5,
   "headless": false,
   "api_key": "22f865",
+  "api_key_cepat": "6",
   "discohook": "https://dvWorFmeVqFR_3lcfTJ-0fMhh4elKxIKEJsjLErGBX209xEJtnQ9Q-f8V7nqk",
   "discolog": "https://discoRxMLVPrhHRTC2l5rH7eCi59CSNRGWocNWwMRWsT65Yuel4msq",
   "maxRetries": 5,
